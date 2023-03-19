@@ -1,0 +1,23 @@
+body{
+    background-color: gray;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: aquamarine;
+    background-color: blue;
+    font-weight: 700;
+    text-align: center;
+    border: 30px 30px brown;
+}
+strong{
+    font-size: 20px;
+    font-weight: 700px;
+}
+img{
+    width: 20em;
+    display: block;
+    border-radius: 30px;
+    margin: 0 auto;    
+}
+

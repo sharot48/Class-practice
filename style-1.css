@@ -1,0 +1,14 @@
+h1{
+    color: orangered;
+    text-align: center;
+    border: 5px solid rgb(50, 82, 87);
+}
+
+.form-row{
+    display: flex;
+    flex-direction:column;
+}
+
+.from{
+    width: 206px;
+}
