@@ -18,3 +18,13 @@ h1{
 .padding{
     padding-top: 15px;
 }
+h3{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-weight: 800px;
+    font-size: 50px;
+}
+button{
+    font-family: cursive;
+    border-radius: 30px;
+    margin-left: 130px;
+}
