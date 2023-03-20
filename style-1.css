@@ -1,3 +1,6 @@
+body{
+    background-color: aquamarine;
+}
 h1{
     color: orangered;
     text-align: center;
@@ -11,4 +14,7 @@ h1{
 
 .from{
     width: 206px;
+}
+.padding{
+    padding-top: 15px;
 }
