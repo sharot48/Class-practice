@@ -26,9 +26,15 @@ h3{
 button{
     font-family: cursive;
     border-radius: 30px;
-    margin-left: 130px;
+    margin: 25px 130px;
 }
 .second{
     width: 25em;
     border-radius: 30px;
+}
+h4{
+    font-family: 'Harlow Solid Italic', cursive;
+    font-weight: 800px;
+    font-size: 25px;  
+    color: rgb(243, 9, 41);
 }
